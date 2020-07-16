@@ -59,9 +59,9 @@ html,body{
   font-family: Railway;
 }
 .logos{
-  padding-top: 130px;
-  margin-left: 40%;
-  justify-content: space-between;
+  padding-top:80px;
+  margin-left: 28%;
+  /* justify-content: space-between; */
   cursor: pointer;
   position:relative;
 }
@@ -74,10 +74,24 @@ html,body{
   transition: 0.1s;
 }
 .center:hover{
+  /* position: relative;
+  top: -25px; */
   transition: 0.2s;
   border-radius: 10%;
+  /* height: 900; */
 }
-/*.logos:hover{
-  transition:0.1s;
-  
-}*/
+
+.first{
+  padding: 15px;
+}
+.first:hover{
+position: relative;
+/* display: block; */
+  top:-10px;
+    /* left:10px; */
+    /* width:50px; */
+    /* height:0px; */
+    
+ opacity: 0.6;
+  transition: 0.3s;
+}
