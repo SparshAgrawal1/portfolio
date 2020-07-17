@@ -61,14 +61,16 @@ html,body{
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-family: ;
 }
-.eee{
+.faltu{
   padding-top: 80px;
+}
+.eee{
   font-weight: bolder;
   color: #635e56;
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 .ee{
-  padding-top: 85px;
+
   font-weight: bolder;
   color: #635e56;
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -77,3 +79,8 @@ html,body{
   margin-top: 20%;
   margin-left: 40%;
 }*/
+.ddddd:hover{
+ background: linear-gradient(to left,white 0%, #eddfdf 25%, #e6d1d1 50%, #dec5c5 75%, #d4bebe 100%);;
+ padding: 10px;
+ margin-right: 10%;
+}
